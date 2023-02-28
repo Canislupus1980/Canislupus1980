@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Canislupus1980
+- 👋 Hi, I’m Sergey
 - 👀 I’m interested in DevOps, DevSecOps practices
 - 🌱 I’m currently learning best practices
 - 💞️ I am looking for cooperation to develop my skills
