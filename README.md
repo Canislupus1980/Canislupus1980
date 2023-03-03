@@ -1,6 +1,7 @@
 <img src="https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/200.webp?cid=ecf05e474ycjfkuf15p9225tesjdkty44ad3b3ojsbp9r2pz&rid=200.webp&ct=g">
+<img src=https://media1.giphy.com/media/bGgsc5mWoryfgKBx1u/200w.webp?cid=ecf05e47anyioo74xto8cmua19wxeu6ze28nh4wpk6sk71kx&rid=200w.webp&ct=g>
 
-👋 Hi, I’m ___Sergey___ 
+👋 Hi, I’m ___Sergey___
 
 👀 I’m interested in DevOps, DevSecOps practices
 
